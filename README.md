@@ -10,10 +10,6 @@ An advanced stock analysis application utilizing **AI-driven insights**, **real-
 - **Key Indicator Computation**: Analyzes trends using key financial indicators.
 - **Interactive UI**: Built with **Streamlit** for a seamless user experience.
 
-🌐 Visit the Live App
-
-Experience MarketTrend AI here: **[link](https://markettrend-ai.streamlit.app/)**
-
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the Repository
